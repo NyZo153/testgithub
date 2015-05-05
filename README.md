@@ -6,3 +6,6 @@ Ce test est basé sur la documentation officielle de github.
 Sur ce, Bonne continuation!
 
 Commit in github this modification.
+
+Test réussi! 
+Bonne journée à tous !
